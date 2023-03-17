@@ -1,5 +1,4 @@
 from google.oauth2 import service_account
-from googleapiclient.errors import HttpError
 from googleapiclient.discovery import build
 from config.settings import GOOGLE_API_KEY, GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET
 
