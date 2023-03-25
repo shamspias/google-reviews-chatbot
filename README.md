@@ -4,6 +4,9 @@ The Google Reviews Chatbot is an automated response system that fetches reviews 
 sentiments using OpenAI's GPT-3, and generates appropriate responses. It uses Celery for task scheduling and can be
 deployed on AWS using Elastic Beanstalk, EC2, and ElastiCache for Redis.
 
+## Request Access Google My Business
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfC_FKSWzbSae_5rOpgwFeIUzXUF1JCQnlsZM_gC1I2UHjA3w/viewform) to apply for access to Google My Business API.
+
 ## Installation
 
 - Install the required Python packages:
